@@ -81,11 +81,11 @@ Reviewers should verify the lambda functions by invoking them through provided U
   (for JS only) [aws-sdk-mock](https://www.npmjs.com/package/aws-sdk-mock) can be used to mock S3 methods
 - **+1** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
 
-## Description Teamplate for PRs
+## Description Template for PRs
 
 ---
 
-The follwoing should be present in PR's description field:
+The following should be present in PR's description field:
 
 1. What was done?
 

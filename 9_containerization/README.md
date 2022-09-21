@@ -1,12 +1,10 @@
-# Title
-
-Containerization
+# Containerization
 
 # Goal
 
 - Learn what Docker is all about
-- Explore different Docker related concepts and AWS Elastic Beanstalk service.
-- Set up a Dockerfile and an integration with AWS Elastic Beanstalk
+- Explore different Docker-related concepts and AWS Elastic Beanstalk service.
+- Set up a Dockerfile and integration with AWS Elastic Beanstalk
 
 # Topics
 
@@ -14,7 +12,7 @@ Containerization
 - Dockerfiles & Images
 - Containers & VMs
 - Docker Build Optimizations
-- AWS Elastic Beanstalk overview
+- AWS Elastic Beanstalk Overview
 - AWS EB CLI
 
 # Materials

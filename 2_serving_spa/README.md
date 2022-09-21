@@ -1,11 +1,9 @@
-# Title
-
-Serving SPA in AWS
+# Serving SPA in AWS
 
 # Goal
 
-- Learn what serving an SPA is all about
-- Explore different hosting related concepts like object storage, CDN, etc.
+- Learn what serving a SPA is all about
+- Explore different hosting-related concepts like object storage, CDN, etc.
 - Set up a static website hosting via AWS S3
 
 # Topics
@@ -14,8 +12,8 @@ Serving SPA in AWS
 - Services & Tools overview
 - AWS CloudFront overview
 - Basic overview of deployment process to CloudFront and S3
-- Serverless Framework overview
-- AWS CLI overview
+- Serverless Framework Overview
+- AWS CLI Overview
 
 # Materials
 
@@ -109,6 +107,8 @@ Serving SPA in AWS
   - [Tutorial: Your First Serverless Framework Project](https://www.serverless.com/framework/docs/tutorial)
   - [AWS S3 Buckets Overview](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingBucket.html)
   - [Pseudo Parameters Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
+  - [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+  - [Example of deploying static site with AWS CDK](https://github.com/EPAM-JS-Competency-center/nodejs-aws-cdk-starter)
   </blockquote>
 
 </details>
