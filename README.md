@@ -105,7 +105,7 @@ This program will have theory and practice on the following topics:
 - AWS Elastic Beanstalk overview
 - AWS EB CLI
 
-### Module 9 - [Backend For Frontend](10_backend_for_frontend/README.md)
+### Module 10 - [Backend For Frontend](10_backend_for_frontend/README.md)
 - Backend for Frontend overview
 - BFF as Pattern
 - API Gateway as BFF
