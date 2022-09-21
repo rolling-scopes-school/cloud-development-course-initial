@@ -1,4 +1,4 @@
-# Task 8 (Integration with SQL Database)
+# Task 4 (Integration with Database)
 
 ## Architecture
 
@@ -97,7 +97,7 @@ _NOTE: This setup means User cannot buy more than `product.count` (no more items
 
 1. Commit all your work to separate branch (e.g. `task-4` from the latest `master`) in BE (backend) and if needed in FE (frontend) repositories.
 2. Create a pull request to the `master` branch.
-3. Submit the link to the pull request for crosscheck
+3. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
 ## Evaluation criteria (each mark includes previous mark criteria)
 
