@@ -66,12 +66,9 @@ This program will have theory and practice on the following topics:
 - Introduction to Collecting logs with AWS CloudWatch
 - Lambda Advanced Features and Configuration
 
-### Module 4 - [Integration with Database](4_integration_with_nosql_database/README.md)
-- Relational Databases Theory
-- SQL Overview
-- Overview of AWS database offering
-- AWS RDS and its engines
-- Serveless functions & AWS RDS
+### Module 4 - [Integration with NoSQL Database](4_integration_with_nosql_database/README.md)
+- Easy way to store data in Cloud
+- AWS DynamoDB and how to use it
 
 ### Module 5 - [Integration with S3](./5_integration_with_s3/README.md)
 - AWS S3 In-depth Introduction
@@ -93,7 +90,14 @@ This program will have theory and practice on the following topics:
 - Cognito User Pool
 - Cognito Identity Pool
 
-### Module 8 - [Containerization](9_containerization/README.md)
+### Module 8 - [Integration with SQL Database](./8_integration_with_sql_database/README.md)
+- Relational Databases Theory
+- SQL Overview
+- Overview of AWS database offering
+- AWS RDS and its engines
+- Serverless functions & AWS RDS
+
+### Module 9 - [Containerization](9_containerization/README.md)
 - Docker overview
 - Dockerfiles & Images
 - Containers & VMs
