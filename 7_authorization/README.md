@@ -1,12 +1,10 @@
-# Title
-
-Authorization
+# Authorization
 
 # Goal
 
 - Learn what authorization in AWS is all about
 - Explore different authorization concepts and services like Cognito, user pool, etc.
-- Set up an authorization via AWS Lambda and AWS Cognito
+- Set up authorization via AWS Lambda and AWS Cognito
 
 # Topics
 

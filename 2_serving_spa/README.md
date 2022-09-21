@@ -1,11 +1,9 @@
-# Title
-
-Serving SPA in AWS
+# Serving SPA in AWS
 
 # Goal
 
-- Learn what serving an SPA is all about
-- Explore different hosting related concepts like object storage, CDN, etc.
+- Learn what serving a SPA is all about
+- Explore different hosting-related concepts like object storage, CDN, etc.
 - Set up a static website hosting via AWS S3
 
 # Topics
@@ -14,8 +12,8 @@ Serving SPA in AWS
 - Services & Tools overview
 - AWS CloudFront overview
 - Basic overview of deployment process to CloudFront and S3
-- Serverless Framework overview
-- AWS CLI overview
+- Serverless Framework Overview
+- AWS CLI Overview
 
 # Materials
 

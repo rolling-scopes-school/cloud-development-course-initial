@@ -1,6 +1,4 @@
-# Title
-
-Integration with RDS
+# Integration with RDS
 
 # Goal
  
@@ -13,7 +11,7 @@ Integration with RDS
 - SQL Overview
 - Overview of AWS database offering
 - AWS RDS and its engines
-- Serveless functions & AWS RDS
+- Serverless functions & AWS RDS
 
 # Materials
 

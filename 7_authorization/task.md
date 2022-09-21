@@ -97,7 +97,7 @@ Provide your reviewers with the link to the repo, client application and URLs to
 
 ---
 
-_NOTE: Recommended for personal growth and further interviews, but this part would not be evauated on cross-check._
+_NOTE: Recommended for personal growth and further interviews, but this part would not be evaluated on cross-check._
 
 - **+1** - Client application should display alerts for the responses in 401 and 403 HTTP statuses. This behavior should be added to the `nodejs-aws-fe-main/src/index.tsx` file.
 - **Just Practice, No Evaluation** - Add Login page and protect `getProductsList` lambda by the Cognito Authorizer

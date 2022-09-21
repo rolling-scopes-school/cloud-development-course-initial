@@ -74,7 +74,7 @@ Reviewers should verify the lambda functions by invoking them through provided U
 - **+1** **(All languages)** - Lambda handlers (`getProductsList`, `getProductsById`) code is written not in 1 single module (file) and separated in codebase.
 - **+1** **(All languages)** - Main error scenarios are handled by API ("Product not found" error).
 
-## Description Teamplate for PRs
+## Description Template for PRs
 
 ---
 

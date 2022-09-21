@@ -1,4 +1,4 @@
-# Task 4 (Integration with Database)
+# Task 8 (Integration with Database)
 
 ## Architecture
 
@@ -17,7 +17,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ---
 
-### Task 4.1
+### Task 8.1
 
 1. Use AWS Console to create a database instance in RDS with PostgreSQL and default configuration.
 2. Connect to database instance via a tool called [DBeaver](https://dbeaver.io/download/) or any other similar tools like DataGrip/PgAdmin
@@ -43,7 +43,7 @@ Stock model:
 
 4. Write SQL script to fill tables with test examples. Store it in your Github repository. Execute it for your DB to fill data.
 
-### Task 4.2
+### Task 8.2
 
 1. Extend your `serverless.yml` file with credentials to your database instance and pass it to lambda’s environment variables section.
 2. It's recommended to use [pg](https://www.npmjs.com/package/pg) module to connect the database from the code.
@@ -86,16 +86,16 @@ _NOTE: This setup means User cannot buy more than `product.count` (no more items
 
 5. Integrate the `getProductsById` lambda to return via GET `/products/{productId}` request a single product from the database. **Do not commit your environment variables in serverless.yml to github!**
 
-### Task 4.3
+### Task 8.3
 
 1. Create a lambda function called `createProduct` under the same Serverless config file (i.e. `serverless.yaml`) of Product Service which will be triggered by the HTTP POST method.
 2. The requested URL should be `/products`.
 3. Implement its logic so it will be creating a new item in a Products table.
 4. Save the URL (API Gateway URL) to execute the implemented lambda functions for later - you'll need to provide it in the PR (e.g in PR's description) when submitting the task.
 
-### Task 4.4
+### Task 8.4
 
-1. Commit all your work to separate branch (e.g. `task-4` from the latest `master`) in BE (backend) and if needed in FE (frontend) repositories.
+1. Commit all your work to separate branch (e.g. `task-8` from the latest `master`) in BE (backend) and if needed in FE (frontend) repositories.
 2. Create a pull request to the `master` branch.
 3. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
@@ -105,9 +105,9 @@ _NOTE: This setup means User cannot buy more than `product.count` (no more items
 
 Reviewers should verify the lambda functions by invoking them through provided URLs.
 
-- **1** - Task 4.1 is implemented
-- **3** - Task 4.2 is implemented lambda links are provided and returns data
-- **4** - Task 4.3 is implemented lambda links are provided and products is stored in DB (call Task 4.2 to see the product)
+- **1** - Task 8.1 is implemented
+- **3** - Task 8.2 is implemented lambda links are provided and returns data
+- **4** - Task 8.3 is implemented lambda links are provided and products is stored in DB (call Task 8.2 to see the product)
 - **5** - Your own Frontend application is integrated with Product Service (`/products` API) and products from Product Service are represented on Frontend. Link to a working Frontend application is provided for cross-check reviewer.
 
 ## Additional (optional) tasks

@@ -1,10 +1,10 @@
-# Task 9 (Backend For Frontend)
+# Task 10 (Backend For Frontend)
 
 ## Prerequisites
 
 ---
 
-- The task is a continuation of Homework 8
+- The task is a continuation of Homework 9
 - The task should be done in the backend repo - the same repo with `product-service` and `import-service` services
 - Product Service and Cart Service services should exist and work in your application
 
@@ -25,7 +25,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ---
 
-### Task 9.1
+### Task 10.1
 
 1. Create a new service called `bff-service` at the same level as Product Service and Import Service. The backend project structure should look like this:
 
@@ -54,7 +54,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 4. If BFF Service cannot find `recipientURL` by the `{recipient-service-name}`, return a "Cannot process request" error message with status 502.
 5. BFF Service should return the same status code and error message that the recipient service returns to the BFF Service in case of any error on the recipient service side.
 
-### Task 9.2
+### Task 10.2
 
 1. Deploy BFF Service with Elastic Beanstalk.
 
@@ -66,9 +66,9 @@ Find the entire program architecture: [here](../Architecture.pdf).
 2. BFF Service should work only with requests from the Product Service and Cart Service.
 3. All Product Service and Cart Service methods should work correctly if requested via BFF Service
 
-### Task 9.3
+### Task 10.3
 
-1. Commit all your work to separate branch (e.g. `task-9` from the latest `master`) in your own repository.
+1. Commit all your work to separate branch (e.g. `task-10` from the latest `master`) in your own repository.
 2. Create a pull request to the `master` branch.
 3. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
@@ -82,7 +82,7 @@ Provide your reviewers with the following information:
 - Product Service API URL
 - Cart Service API URL
 - BFF Service API URL
-- example of how to call `createProduct` labmda with all needed information: URL, payload, headers, etc.
+- example of how to call `createProduct` lambda with all needed information: URL, payload, headers, etc.
 - example how to call Product Service and Cart Service via BFF Service URL
 
 ---
@@ -116,11 +116,11 @@ By this point your application must be able to do:
   - Get products list - result should have new product
 - **+1** - Use `NestJS` to create BFF Service instead of `Express`
 
-## Description Teamplate for PRs
+## Description Template for PRs
 
 ---
 
-The follwoing should be present in PR's description field:
+The following should be present in PR's description field:
 
 1. What was done?
 

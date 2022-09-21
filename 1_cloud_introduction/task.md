@@ -19,17 +19,11 @@ By the end of the program your application must be able to do:
 
 ### Task 1.1
 
-1. Find our communication channel
+1. Join our communication channel
 
-- If you're coming from Rolling Scopes School - use Discord
-- If you're coming from EPAM internal program - use MS Teams
+- Discord: register a new account if you don't have one and [join the course chat](https://discord.com/invite/ATsHAqCsnw)
 
-2. Join our communication channel
-
-- For Discord: register a new account if you don't have one and [join the course chat](https://discord.com/invite/ATsHAqCsnw)
-- For MS Teams: link will be provided separately
-
-3. Register in [RS App](https://app.rs.school/registry/student?course=aws-2021)
+3. Register in [RS App](https://app.rs.school/registry/student?course=aws-2022q3)
 
     - The link might be outdated, so be sure to reach out if you have any doubts
     - Feel free to ask any questions in our Discord chat

@@ -66,11 +66,11 @@ Reviewers should verify the lambda functions, SQS and SNS topic and subscription
 - **+1** **(All languages)** - `catalogBatchProcess` lambda is covered by **unit** tests
 - **+1** **(All languages)** - set a Filter Policy for SNS `createProductTopic` in `serverless.yml` and create an additional email subscription to distribute messages to different emails depending on the filter for any product attribute
 
-## Description Teamplate for PRs
+## Description Template for PRs
 
 ---
 
-The follwoing should be present in PR's description field:
+The following should be present in PR's description field:
 
 1. What was done?
 
