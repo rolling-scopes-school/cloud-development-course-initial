@@ -1,4 +1,4 @@
-# Task 8 (Integration with Database)
+# Task 8 (Integration with SQL Database)
 
 ## Architecture
 
