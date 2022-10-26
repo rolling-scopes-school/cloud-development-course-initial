@@ -49,7 +49,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 1. Commit all your work to separate branch (e.g. `task-3` from the latest `master`) in your own repository.
 2. Create a pull request to the `master` branch.
-3. Submit the link to the pull request for crosscheck
+3. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
 ## Evaluation criteria (each mark includes previous mark criteria)
 
@@ -74,7 +74,7 @@ Reviewers should verify the lambda functions by invoking them through provided U
 - **+1** **(All languages)** - Lambda handlers (`getProductsList`, `getProductsById`) code is written not in 1 single module (file) and separated in codebase.
 - **+1** **(All languages)** - Main error scenarios are handled by API ("Product not found" error).
 
-## Description Teamplate for PRs
+## Description Template for PRs
 
 ---
 

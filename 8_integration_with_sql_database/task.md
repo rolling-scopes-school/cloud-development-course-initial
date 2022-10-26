@@ -61,12 +61,11 @@ Cart Item model:
 3. It's recommended to use [pg](https://www.npmjs.com/package/pg) module to connect the database from the code.
 4. Extend your `serverless.yml` file with credentials to your database instance and pass it to lambda’s environment variables section.
 
-
 ### Task 8.4
 
 1. Commit all your work to separate branch (e.g. `task-8` from the latest `master`) in your new repository.
 2. Create a pull request to the `master` branch.
-3. Submit the link to the pull request for crosscheck
+3. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
 
 ## Evaluation criteria (each mark includes previous mark criteria)

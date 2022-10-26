@@ -21,7 +21,12 @@ By the end of the program your application must be able to do:
 
 1. Join our communication channel
 
-- [CloudX AWS Practitioner for JS](https://teams.microsoft.com/l/channel/19%3a73dafd02206d421896229364386d7bd2%40thread.skype/CloudX%2520AWS%2520Practitioner%2520for%2520JS?groupId=a91a4b92-98b1-4d0d-9e21-bd706bd68ed5&tenantId=b41b72d0-4e9f-4c26-8a69-f949f367c91d)
+- Discord: register a new account if you don't have one and [join the course chat](https://discord.com/invite/ATsHAqCsnw)
+
+3. Register in [RS App](https://app.rs.school/registry/student?course=aws-2022q3)
+
+    - The link might be outdated, so be sure to reach out if you have any doubts
+    - Feel free to ask any questions in our Discord chat
 
 ### Task 1.2
 

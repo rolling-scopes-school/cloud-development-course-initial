@@ -81,7 +81,7 @@ _NOTE: Do not send your credentials to the GitHub. Use `.env` file and `serverle
 
 1. Commit all your work to separate branch (e.g. `task-7` from the latest `master`) in your own repository.
 2. Create a pull request to the `master` branch.
-3. Submit the link to the pull request for crosscheck
+3. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
 ## Evaluation criteria (each mark includes previous mark criteria)
 
@@ -97,7 +97,7 @@ Provide your reviewers with the link to the repo, client application and URLs to
 
 ---
 
-_NOTE: Recommended for personal growth and further interviews, but this part would not be evauated on cross-check._
+_NOTE: Recommended for personal growth and further interviews, but this part would not be evaluated on cross-check._
 
 - **+1** - Client application should display alerts for the responses in 401 and 403 HTTP statuses. This behavior should be added to the `nodejs-aws-fe-main/src/index.tsx` file.
 - **Just Practice, No Evaluation** - Add Login page and protect `getProductsList` lambda by the Cognito Authorizer

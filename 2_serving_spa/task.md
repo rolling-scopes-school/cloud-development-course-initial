@@ -56,7 +56,7 @@ _NOTE: Now that you have this plugin you don’t need to manually create CloudFr
 1. Store the links to CloudFront URL and S3-website in README.md file.
 2. Commit all your work to separate branch (e.g. `task-2` from the latest `master`) in your own repository.
 3. Create a pull request to the `master` branch.
-4. Submit the link to the pull request for crosscheck
+4. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
 ## Evaluation criteria (each mark includes previous mark criteria)
 
@@ -73,11 +73,11 @@ _NOTE: Now that you have this plugin you don’t need to manually create CloudFr
 
 NOTE: YOU SHOULD WORK IN YOUR OWN FORKED REPOSITORY, NOT IN COMMON
 
-## Description Teamplate for PRs
+## Description Template for PRs
 
 ---
 
-The follwoing should be present in PR's description field:
+The following should be present in PR's description field:
 
 1. What was done?
 

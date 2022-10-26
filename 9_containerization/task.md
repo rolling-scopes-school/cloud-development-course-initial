@@ -24,7 +24,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ---
 
-### Task 8.1
+### Task 9.1
 
 1. Fork a copy of [Cart Service template repository](https://github.com/boale/rs-cart-api)
 
@@ -45,7 +45,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 - _OPTIONAL: Optimize build times by utilizing multistage builds._
 - _OPTIONAL: Lint Dockerfile._
 
-### Task 8.2
+### Task 9.2
 
 1. Prepare Cart Service infrastructure with Elastic Beanstalk.
 
@@ -67,11 +67,11 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 _NOTE: Now after page refresh cart’s content might remain the same._
 
-### Task 8.3
+### Task 9.3
 
-1. Commit all your work to separate branch (e.g. `task-8` from the latest `master`) in your own repository.
+1. Commit all your work to separate branch (e.g. `task-9` from the latest `master`) in your own repository.
 2. Create a pull request to the `master` branch.
-3. Submit the link to the pull request for crosscheck
+3. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
 ## Evaluation criteria (each mark includes previous mark criteria)
 
@@ -83,11 +83,11 @@ _NOTE: Now after page refresh cart’s content might remain the same._
 - **4** - Environment is created and the app is deployed to the AWS cloud. You must provide a link to your GitHub repo with Cart Service API or PR with created `Dockerfile` and related configurations.
 - **5** - FE application is updated with Cart API endpoint. You must provide a PR with updates in your FE repository and OPTIONALLY link to deployed front-end app which makes proper API calls to your Cart Service.
 
-## Description Teamplate for PRs
+## Description Template for PRs
 
 ---
 
-The follwoing should be present in PR's description field:
+The following should be present in PR's description field:
 
 1. What was done?
 

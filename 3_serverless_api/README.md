@@ -3,8 +3,8 @@
 # Goal
 
 - Learn what Serverless is all about
-- Explore different serverless related services like Lambda, API Gateway, etc.
-- Set up an API Gateway and Lambda based architecture
+Explore different serverless-related services like Lambda, API Gateway, etc.
+- Set up an API Gateway and Lambda-based architecture
 
 # Topics
 
@@ -35,7 +35,7 @@
    - [AWS Lambda & API Gateway - part4. Advanced Lambda](https://videoportal.epam.com/video/oybzJ0oWebWXLqX4Y4dG), ~11 mins
    - [AWS Lambda & API Gateway - part 5. Advanced practice](https://videoportal.epam.com/video/v0Aba28WRBWvZwejJkz9), ~17 mins
    - [AWS Lambda & API Gateway - part 6. Advanced practice continued](https://videoportal.epam.com/video/vbdGYloMlrMKpq4naWqy), ~14 mins
-   - [AWS Lambda & API Gateway - part7. Hometask review](https://videoportal.epam.com/video/Dj6qaBMwxW5k1P87gPWA), ~5 mins
+   - [AWS Lambda & API Gateway - part7. Home task review](https://videoportal.epam.com/video/Dj6qaBMwxW5k1P87gPWA), ~5 mins
    </blockquote>
   </details>
 
@@ -63,7 +63,7 @@
 
   <blockquote>
 
-  - [How I spent 400$ on lambdas in just one evening ](https://youtu.be/58M6g4BhSxU), ~8mins
+  - [How I spent 400$ on lambdas in just one evening](https://youtu.be/58M6g4BhSxU), ~8mins
   - [AWS Lambda Core Concepts](https://www.youtube.com/watch?v=iUIWG0h2D84), ~7 mins
   - [Introduction to AWS Lambda & Serverless Applications](https://www.youtube.com/watch?v=EBSdyoO3goc), ~56 mins
   - [Building APIs with Amazon API Gateway](https://www.youtube.com/watch?v=XwfpPEFHKtQ), ~43 mins

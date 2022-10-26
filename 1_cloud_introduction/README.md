@@ -3,7 +3,7 @@
 # Goal
 
 - Learn what Cloud Development is all about
-- Explore different Cloud Sevice Models and architecture approaches
+- Explore different Cloud Service Models and architecture approaches
 - Set up AWS account and development environment
 
 # Topics
@@ -36,7 +36,7 @@
    - [Introduction - part4 - AWS essentials](https://videoportal.epam.com/video/VKQwJWkPqVqXRvEqJ1EW), ~1 mins
    - [Introduction - part5](https://videoportal.epam.com/video/2qOL7xxLPEPGq9dx7483), ~3 mins
    - [Introduction - part6](https://videoportal.epam.com/video/1g5mYRkg2pyRwK10JWoD), ~2 mins
-   - [Introduction - part7 - hometask overview](https://videoportal.epam.com/video/vbdGYloMlrdgLVXEaWqy), ~3 mins
+   - [Introduction - part7 - home task overview](https://videoportal.epam.com/video/vbdGYloMlrdgLVXEaWqy), ~3 mins
    - [Introduction - part8 - SPA boilerplate overview](https://videoportal.epam.com/video/MRwdYoVgQm6A58pZa3bL), ~1 mins
    - [Introduction - part9 - registration in AWS](https://videoportal.epam.com/video/XmRlaydZ0Qwy5Ex67jno), ~2 mins
    - [Introduction - part10 - registration in AWS](https://videoportal.epam.com/video/286VYGZzDpKKOr6Eav1E), ~1 mins
