@@ -69,15 +69,15 @@ Cart Item model:
 3. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
 
-## Evaluation criteria (each mark includes previous mark criteria)
+## Evaluation criteria (70 points for covering all criteria)
 
 ---
 
 Reviewers should verify the lambda functions by invoking them through provided URLs.
 
-- **30** - Task 8.1 is implemented
-- **60** - Task 8.2 is implemented
-- **80** - Task 8.3 is implemented lambda links are provided and cart's data is stored in DB
+- Task 8.1 is implemented
+- Task 8.2 is implemented
+- Task 8.3 is implemented lambda links are provided and cart's data is stored in DB
 
 ## Additional (optional) tasks
 
@@ -96,9 +96,9 @@ Order model:
     status - ENUM or text
     total - number
 ```
-- **+1** **(All languages)** - Create users table and integrate with it
-- **+1** **(All languages)** - Transaction based creation of checkout
-- **+1** **(All languages)** - Integrate Cart service with FE repository
+- **+4** **(All languages)** - Create users table and integrate with it
+- **+3** **(All languages)** - Transaction based creation of checkout
+- **+3** **(All languages)** - Integrate Cart service with FE repository
 
 ## Description Template for PRs
 
